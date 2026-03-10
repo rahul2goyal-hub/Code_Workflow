@@ -1,0 +1,5 @@
+{
+  "name": "NPD Workflow Manager",
+  "description": "A robust New Product Development workflow application for tracking IPC documents and stage approvals.",
+  "requestFramePermissions": []
+}
